@@ -1,2 +1,2 @@
 # Leen-Group-Template
-LGC MDIM KINDAUNG
+LGC TEMPLATE
