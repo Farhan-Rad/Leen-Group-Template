@@ -28,7 +28,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body class="bg-slate-50 min-h-screen flex items-center justify-center">
     <div class="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
-        <h1 class="text-3xl font-bold mb-6 text-center text-emerald-600">Login Pengawas</h1>
+        <h1 class="text-3xl font-bold mb-6 text-center text-emerald-600">Login Pengguna</h1>
         <?php if ($error): ?>
             <p class="bg-red-100 text-red-700 p-3 rounded mb-4"><?php echo htmlspecialchars($error); ?></p>
         <?php endif; ?>
